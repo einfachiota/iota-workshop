@@ -15,7 +15,7 @@ node code/1-hello-world.js
 
 Nun solltest du eine Nachricht mit den Statistiken eines IOTA-Nodes (iri) erhalten. Dies bedeutet, dass es funktioniert hat und man die anderen Beispiele erkunden und ausführen kann.
 
-Hat es nicht funktioniert? [Schaue hier](./MITMACHEN.md])
+Hat es nicht funktioniert? [Schaue hier](./FEHLERSUCHE.md)
 
 
 ### Beispiele
