@@ -1,25 +1,26 @@
-# IOTA Workshop
+# einfachIOTA Workshop 
 
-Simple examples to help a developer work through interacting with the IOTA network. 
+Einfache Beispiele, die einem Entwickler bei der Arbeit mit den Technologien von IOTA helfen.
 
 ### Getting started
 
-To start playing with these examples run the following commands:
+Um diese Beispiele zu bennutzen, führe die folgenden Befehle aus:
 
 ```bash
-git clone https://github.com/iota-community/iota-workshop.git
+git clone https://github.com/einfachiota/iota-workshop.git
 cd iota-workshop
 npm i
 node code/1-hello-world.js
 ```
 
-You should receive a message including the statistics of an IOTA node. This means you can explore and run the other examples.
+Nun solltest du eine Nachricht mit den Statistiken eines IOTA-Nodes (iri) erhalten. Dies bedeutet, dass es funktioniert hat und man die anderen Beispiele erkunden und ausführen kann.
+
+Hat es nicht funktioniert? [Schaue hier](./MITMACHEN.md])
 
 
+### Beispiele
 
-### Examples included
-
-Here are the examples included:
+Folgende Beispiele sind enthalten: 
 
 - 1-hello-world.js
 - 2.1-send-hello.js
@@ -39,21 +40,14 @@ Here are the examples included:
 
 
 
-### Work to be done:
+#### Mitmachen
 
-- Provide directed commentary alongside each example!
-- Improve code commenting
-- Refactor code into a single style (arrows vs functions)
-- Add complex application examples
+Du hast eine Idee oder einen Fehler gefunden? Mach mit! Wir helfen gerne, falls du Hilfe brauchst!
 
+[Hier gibts eine Beschreibung](./MITMACHEN.md)
 
-
-#### Contribution
-
-PRs are welcome on `master`
-
-
+Hile findest du im [einfachIOTA Dirscord](https://discord.gg/Sa8sHbn) im #devtalk Channel.
 
 ----
 
-:beers: Lewi
+Orginal [IOTA Workshop](https://github.com/iota-community/iota-workshop)  by Lewis Freiberg
