@@ -15,11 +15,11 @@ const iota = iotaLibrary.composeAPI({
 const seed =
   'HELLOWORLDHELLOWORLDHELLOWORLDHELLOWORLDHELLOWORLDHELLOWORLDHELLOWORLDHELLOWORL9D'
 
-// Hiermit erstellen wir eine neue Addresse. 
+// Hiermit erstellen wir eine neue Adresse. 
 iota
   .getNewAddress(seed, { index: 0, total: 1 })
   .then(address => {
-    console.log('Deine  Addresse ist: ' + address)
+    console.log('Deine  Adresse ist: ' + address)
     console.log('Trage sie hier ein, um Devnet Tokens zu bekommen https://faucet.devnet.iota.org')
   })
   .catch(err => {

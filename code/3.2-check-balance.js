@@ -8,7 +8,7 @@ const iota = iotaLibrary.composeAPI({
   provider: 'https://nodes.devnet.thetangle.org:443'
 })
 
-// Wir rufen den Saldo dieser Addresse ab
+// Wir rufen den Saldo dieser Adresse ab
 const address =
   'NBZLOBCWG9BAQTODDKNF9LYYTBOUWSQSGCWFQVZZR9QXCOAIBRYDTZOEGBGMZKJYZOPPGRGFFWTXUKUKW'
 

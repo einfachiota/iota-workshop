@@ -8,7 +8,7 @@ const iota = iotaLibrary.composeAPI({
   provider: 'https://nodes.devnet.thetangle.org:443'
 })
 
-// Dise Addresse wollen wir überprügen.
+// Dise Adresse wollen wir überprügen.
 const address =
   'HEQLOWORLDHELLOWORLDHELLOWORLDHELLOWORLDHELLOWORLDHELLOWORLDHELLOWORLDHELLOWOR99DMNFAQLWHD'
 
