@@ -1,5 +1,5 @@
 ///////////////////////////////
-// Environment Check
+// Testprogramm
 ///////////////////////////////
 
 // Hiermit importieren wir die IOTA Javascript Blibliothek.

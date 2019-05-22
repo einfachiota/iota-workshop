@@ -1,5 +1,5 @@
 ///////////////////////////////
-// Fetch your HELLOWORLD Message
+// Lade deine  HELLOWORLD Nachricht aus dem Tangle
 ///////////////////////////////
 
 // Wir importieren die IOTA JS Blibliothek und erstellen ein IOTA Objekt mit einem Devnet Provider.

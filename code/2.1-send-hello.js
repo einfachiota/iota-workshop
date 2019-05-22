@@ -1,5 +1,5 @@
 ///////////////////////////////
-// Send HELLOWORLD
+// Sende eine HELLOWORLD Nachricht in den Tangle
 ///////////////////////////////
 
 // Wir importieren die IOTA JS Blibliothek und erstellen ein IOTA Objekt mit einem Devnet Provider.
