@@ -2,17 +2,22 @@
 // Send HELLOWORLD
 ///////////////////////////////
 
+// Wir importieren die IOTA JS Blibliothek und erstellen ein IOTA Objekt mit einem Devnet Provider.
 const iotaLibrary = require('@iota/core')
-
 const iota = iotaLibrary.composeAPI({
   provider: 'https://nodes.devnet.thetangle.org:443'
 })
 
+// Dies ist unsere IOTA Empfänger Adresse. An diese Werden wir eine "HELLO WORLD" Nachricht schicken.
 const address =
   'HEQLOWORLDHELLOWORLDHELLOWORLDHELLOWORLDHELLOWORLDHELLOWORLDHELLOWORLDHELLOWOR99D'
+
+// Dies ist unser Seed. Mithilfe des Seeds schicken wir die Nachricht.
 const seed =
   'PUEOTSEITFEVEWCWBTSIZM9NKRGJEIMXTULBACGFRQK9IMGICLBKW9TTEVSDQMGWKBXPVCBMMCXWMNPDX'
 
+// Wir erstellen ein Transfer Objekt. Dieses enthält die Anzahl der IOTA Tokens, eine Empfäger Addresse und ein optionaler Tag.
+// Beachte bitte, das sich unser Transfer Objekt in einen Array befindet - somit wäre es auch möglich, mehrere Transvers gleichzeitig zu versenden. 
 const transfers = [
   {
     value: 0,
@@ -21,6 +26,7 @@ const transfers = [
   }
 ]
 
+// Hier bereiten wir alles vor uns senden die Transaktion zum Tangle. Wenn alles klappt hat, bekommt ihr ein Budle Objekt in der Konsole angezeigt.
 iota
   .prepareTransfers(seed, transfers)
   .then(trytes => iota.sendTrytes(trytes, (depth = 3), (mwm = 9)))
