@@ -39,11 +39,11 @@ const main = async () => {
     const response = await iota.sendTrytes(trytes, 3, 9)
 
     
-    // Unsere Transaktion wurde erfolgreich gesendet. In der Kosnsole wird das Transaktionobjekt angezeigt.s
+    // Unsere Transaktion wurde erfolgreich gesendet. In der Kosnsole wird das Transaktion Objekt angezeigt.s
     console.log('Senden beendet!')
     response.map(tx => console.log(tx))
   } catch (e) {
-    // Dieser Teil wird aufgerufen, falls oben etwas schief geht.
+    // Dieser Teil wird aufgerufen, falls oben etwas schief ging.
     console.log(e)
   }
 }
