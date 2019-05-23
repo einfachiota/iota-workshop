@@ -18,11 +18,14 @@ const seed =
 
 // Wir erstellen ein Transfer Objekt. Dieses enthält die Anzahl der IOTA Tokens, eine Empfäger Adresse und ein optionaler Tag.
 // Beachte bitte, das sich unser Transfer Objekt in einen Array befindet - somit wäre es auch möglich, mehrere Transvers gleichzeitig zu versenden. 
+
+const message_in_trytes = "HELLOWORLD"
+
 const transfers = [
   {
     value: 0,
     address: address,
-    tag: 'KLULTWYK9FP'
+    message: message_in_trytes
   }
 ]
 
