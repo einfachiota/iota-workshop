@@ -22,12 +22,12 @@ Hat es nicht funktioniert? [Schaue hier](./FEHLERSUCHE.md)
 
 Folgende Beispiele sind enthalten: 
 
-- 1-hello-world.js
-- 2.1-send-hello.js
-- 2.2-fetch-hello.js
-- 3.1-create-address.js
-- 3.2-check-balance.js
-- 4-send-tokens.js
+- [1-hello-world.js](./code/1-hello-world.js)
+- [2.1-send-hello.js](./code/2.1-send-hello.js)
+- [2.2-fetch-hello.js](./code/2.2-fetch-hello.js)
+- [3.1-create-address.js](./code/3.1-create-address.js)
+- [3.2-check-balance.js](./code/3.2-check-balance.js)
+- [4-send-tokens.js](./code/4-send-tokens.js)
 - 5.1-send-data.js
 - 5.2-fetch-data.js
 - 6.1-zmq-listen.js
