@@ -16,13 +16,19 @@ const address =
 const seed =
   'PUEOTSEITFEVEWCWBTSIZM9NKRGJEIMXTULBACGFRQK9IMGICLBKW9TTEVSDQMGWKBXPVCBMMCXWMNPDX'
 
+const converter = require('@iota/converter')
+
+const nachricht = "HELLOWORLD"
+
+const nachricht_in_trytes = converter.asciiToTrytes(nachricht)
+
 // Wir erstellen ein Transfer Objekt. Dieses enthält die Anzahl der IOTA Tokens, eine Empfäger Adresse und ein optionaler Tag.
 // Beachte bitte, das sich unser Transfer Objekt in einen Array befindet - somit wäre es auch möglich, mehrere Transvers gleichzeitig zu versenden. 
 const transfers = [
   {
     value: 0,
     address: address,
-    tag: 'KLULTWYK9FP'
+    message: nachricht_in_trytes
   }
 ]
 
