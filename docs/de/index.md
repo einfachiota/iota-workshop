@@ -15,6 +15,7 @@ Folgende Technologien und Werkzeuge weren in diesem Workshop behandelt:
 
 ## Workshop
 
-- [#1 Hello World](https://github.com/einfachiota/iota-workshop/blob/einfachIOTA/docs/de/1-hello-world.md)
-- [#2 Transaktonen](https://github.com/einfachiota/iota-workshop/blob/einfachIOTA/docs/de/2-transaktionen.md)
-- [#3 Adressen](https://github.com/einfachiota/iota-workshop/blob/einfachIOTA/docs/de/3-adressen.md)
+- [#1 Hello World](./docs/de/1-hello-world.md)
+- [#2 Transaktonen](./docs/de/2-transaktionen.md)
+- [#3 Adressen](./docs/de/3-adressen.md)
+- [#4 Send tokens](./docs/de/4-send-tokens.md)
