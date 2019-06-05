@@ -34,10 +34,18 @@ Gebt bei der Adresse nun eure Adresse (die erste Adresse in dem Array = receivin
 
 Danach erstellen wir unser Bundle in Trytes mit Hilfe der “prepareTransfers” Funkion und senden diese in den Tangle mit “sendTrytes”. 
 
-Wir benutzen hier einen “try - catch” Block, um auf eventuelle Fehler zu reagieren und eine Fehlermedung auszugeben. Mit einem “try -catch” Block können wir dies tun, ohne das unser Programm bei einem Fehler direkt abstürtzt. Ein möglicher Fehler wäre, wenn keine Verbinung zum IRI aufgebaut werden kann.
+Wir benutzen hier einen “try - catch” Block, um auf eventuelle Fehler zu reagieren und eine Fehlermedung auszugeben. Mit einem solchen “try - catch” Block können wir dies tun, ohne das unser Programm bei einem Fehler abstürtzt. Ein möglicher Fehler wäre zum Beispiel, wenn keine Verbinung zum IRI aufgebaut werden kann.
 
+Im normalfall sollte aber alles in Ordnung sein und du bekommst ein Transaktion nach kurzer Zeit in der Konsole angezeigt. 
 
+In diesem Workshop habt ihr gelernt:
+Wie man IOTA Tokens mit der Javascript Bibliothek versendet.
+Was "async" und "await" bei Funktionen bedeeutet.
+Wie man Fehler mit dem "try-catch" Block abfängt.
 
+Im nächsten Workshop schauen wir uns das Senden von Daten in den Tangle im Detail an. 
+
+Vielen Dank fürs Lesen! 
 
 
 
