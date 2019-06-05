@@ -1,6 +1,7 @@
 # einfachIOTA Workshop 
 
-Einfache Beispiele, die einem Entwickler bei der Arbeit mit den Technologien von IOTA helfen.
+Einfache Beispiele, die einem Entwickler bei der Arbeit mit den Technologien von IOTA helfen. 
+Die Artikelreihe findet ihr [hier auf einfachIOTA.de](https://www.einfachiota.de/#/workshop). Dort sind alle Beispiele ausführlich beschrieben.
 
 ### Getting started
 
