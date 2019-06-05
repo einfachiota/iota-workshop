@@ -142,9 +142,10 @@ Der Workshop benutzt das IOTA Devnet (https://docs.iota.org/docs/getting-started
 Das wars auch schon mit dem ersten Teil des einfachIOTA Entwickler Workshop. Ich hoffe ihr habt etwas gelernt und hattet Spaß! 
 
 In diesem Teil haben wir
-unsere Entwicklungsumgebung eingerichtet.
-das IOTA Workshop Repository geklont.
-das “1-hello-world” Beispiel ausgeführt und bearbeitet.	
+- unsere Entwicklungsumgebung eingerichtet.
+- Das IOTA Workshop Repository geklont.
+- Das “1-hello-world” Beispiel ausgeführt und bearbeitet.	
 
-Im nächsten Teil werden wir unsere ersten Transaktionen versenden! 
-Bis demnächst! 
+[Im nächsten Teil](./2-transaktionen.md) werden wir unsere ersten Transaktionen versenden! 
+
+Danke fürs Lesen! 

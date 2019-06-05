@@ -69,10 +69,10 @@ Mit der IOTA Javascript Bibliothek kann mithilfe eines Objektes verschiedene Opt
 Ihr wisst nun einiges über Adressen und könnt euch nun auch einfach eure eigene Spendenadressen generieren lassen. Doch Vorsicht, wenn ihr eure Spendenadresse leert, müsst ihr sie mit einer neuen Adresse austauschen! 
 
 In diesem Workshop habt ihr gelernt:
-Was IOTA Adressen sind,
-wie sie generiert werden,
-wo man IOTA Devnet Tokens bekommen kann und
-wie man das Guthaben einer Adresse auslesen kann.
+- Was IOTA Adressen sind,
+- wie sie generiert werden,
+- wo man IOTA Devnet Tokens bekommen kann und
+- wie man das Guthaben einer Adresse auslesen kann.
 
 Im nächsten Workshop schauen wir uns das Senden von IOTA Tokens im Detail an. 
 Vielen Dank fürs Lesen! 

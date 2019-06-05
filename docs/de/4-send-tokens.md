@@ -39,9 +39,9 @@ Wir benutzen hier einen “try - catch” Block, um auf eventuelle Fehler zu rea
 Im normalfall sollte aber alles in Ordnung sein und du bekommst ein Transaktion nach kurzer Zeit in der Konsole angezeigt. 
 
 In diesem Workshop habt ihr gelernt:
-Wie man IOTA Tokens mit der Javascript Bibliothek versendet.
-Was "async" und "await" bei Funktionen bedeeutet.
-Wie man Fehler mit dem "try-catch" Block abfängt.
+- Wie man IOTA Tokens mit der Javascript Bibliothek versendet.
+- Was "async" und "await" bei Funktionen bedeeutet.
+- Wie man Fehler mit dem "try-catch" Block abfängt.
 
 Im nächsten Workshop schauen wir uns das Senden von Daten in den Tangle im Detail an. 
 

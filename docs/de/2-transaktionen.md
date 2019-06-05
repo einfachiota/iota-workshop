@@ -171,12 +171,12 @@ Führe das Programm aus und schaue dir das Ergebnis an! Kannst du deine Transakt
 Das wars leider schon mit dem zweiten EinfachIOTA Workshop. 
 
 Du hast nun gelernt,
-Wie man Transaktionen in den Tangle schickt. 
-Aus welchen Teilen eine Transaktion besteht. 
-Was genau Trits und Trytes sind
-Wie man normalen Text in Trytes konvertieren lassen kann
-Wie man Transaktionen im Tangle findet
-und wie man TheTangle.org benutzt. 
+- wie man Transaktionen in den Tangle schickt. 
+- Aus welchen Teilen eine Transaktion besteht. 
+- Was genau Trits und Trytes sind
+- Wie man normalen Text in Trytes konvertieren lassen kann
+- Wie man Transaktionen im Tangle findet
+- und wie man TheTangle.org benutzt. 
 
 Im nächsten Workshop sehen wir uns die IOTA Adressen genauer an! 
 
