@@ -19,7 +19,7 @@ const address =
 const Converter = require('@iota/converter')
 
 // Zwischen die Anführungszeichen kommt deine Nachricht.
-// Benutze keine Umlaute, ist noch nicht com converter implementiert.
+// Benutze keine Umlaute, ist noch nicht im converter implementiert.
 const message = "hier kommt die Nachricht hin"
 
 const message_in_trytes = Converter.asciiToTrytes(message)
