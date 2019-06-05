@@ -146,6 +146,6 @@ In diesem Teil haben wir
 - Das IOTA Workshop Repository geklont.
 - Das “1-hello-world” Beispiel ausgeführt und bearbeitet.	
 
-[Im nächsten Teil](./2-transaktionen.md) werden wir unsere ersten Transaktionen versenden! 
+Im nächsten Teil werden wir unsere ersten Transaktionen versenden! 
 
 Danke fürs Lesen! 
