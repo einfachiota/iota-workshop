@@ -23,7 +23,7 @@ if (!process.argv[2]) {
 } else {
   console.log('Bobachte transaktionen zu der Adresse: ' + process.argv[2])
   console.log(
-    'Sende etwas zu dieser Adresse- Beachte, das es bis zu 30 Sekunden dauern kann, bis die Transaktion hier erscheint.'
+    'Sende etwas zu dieser Adresse. Beachte, das es bis zu 30 Sekunden dauern kann, bis die Transaktion hier erscheint.'
   )
   // Subscribe zu der Adresse, die als Argument mitgegeben wurde.
   sock.subscribe(process.argv[2])
