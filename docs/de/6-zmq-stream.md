@@ -57,7 +57,7 @@ node code/2.1-send-hello.js
 
 Beachte, das es bis zu 30 Sekunden dauern kann, bis die Transaktion hier erscheint.
 
-Wenn ihr das ganze mal auf eurem IOTA Node ausprobieren möchstet, denkt daran ZMQ zu aktivieren!
+Wenn ihr das ganze mal auf eurem IOTA Node ausprobieren möchstet, denkt daran ZMQ zu aktivieren /var/lib/iri/.!
 
 > Clients können das ZMQ nur abonnieren, wenn für den IRI-Node, mit dem sie verbunden sind, der Konfigurationsparameter `ZMQ-ENABLED` auf `true` festgelegt ist.
 
