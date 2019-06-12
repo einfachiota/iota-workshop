@@ -30,7 +30,7 @@ if (!process.argv[2]) {
 }
 
 sock.on('message', msg => {
-  const data = msg.toString().split(' ') // mit "split" bekommen wur das "Topic", also das Thema und die Daten
+  const data = msg.toString().split(' ') // mit "split" bekommen wir das "Topic", also das Thema und die Daten
   switch (
     data[0] // Der Index 0 gibt uns das Thema (Topic)
   ) {
