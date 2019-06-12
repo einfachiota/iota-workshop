@@ -1,5 +1,5 @@
 # EinfachIOTA Entwickler Workshop 
-## 5 ZMQ Stream
+## 6 ZMQ Stream
 
 Im letzten Teil des Entwickler Workshops haben wir Daten in den Tangle geschicht und Daten aus dem Tangle gelesen.
 
