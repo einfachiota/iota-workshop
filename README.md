@@ -47,7 +47,7 @@ Du hast eine Idee oder einen Fehler gefunden? Mach mit! Wir helfen gerne, falls 
 
 [Hier gibts eine Beschreibung](./MITMACHEN.md)
 
-Hile findest du im [einfachIOTA Discord](https://discord.gg/Sa8sHbn) im #devtalk Channel.
+Hilfe findest du im [einfachIOTA Discord](https://discord.gg/Sa8sHbn) im #devtalk Channel.
 
 ----
 
