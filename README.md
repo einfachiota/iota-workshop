@@ -1,6 +1,7 @@
 # einfachIOTA Workshop 
 
-Einfache Beispiele, die einem Entwickler bei der Arbeit mit den Technologien von IOTA helfen.
+Einfache Beispiele, die einem Entwickler bei der Arbeit mit den Technologien von IOTA helfen. 
+Die Artikelreihe findet ihr [hier auf einfachIOTA.de](https://www.einfachiota.de/#/workshop). Dort sind alle Beispiele ausführlich beschrieben.
 
 ### Getting started
 
@@ -22,12 +23,12 @@ Hat es nicht funktioniert? [Schaue hier](./FEHLERSUCHE.md)
 
 Folgende Beispiele sind enthalten: 
 
-- 1-hello-world.js
-- 2.1-send-hello.js
-- 2.2-fetch-hello.js
-- 3.1-create-address.js
-- 3.2-check-balance.js
-- 4-send-tokens.js
+- [1-hello-world.js](./code/1-hello-world.js)
+- [2.1-send-hello.js](./code/2.1-send-hello.js)
+- [2.2-fetch-hello.js](./code/2.2-fetch-hello.js)
+- [3.1-create-address.js](./code/3.1-create-address.js)
+- [3.2-check-balance.js](./code/3.2-check-balance.js)
+- [4-send-tokens.js](./code/4-send-tokens.js)
 - 5.1-send-data.js
 - 5.2-fetch-data.js
 - 6.1-zmq-listen.js
@@ -46,7 +47,7 @@ Du hast eine Idee oder einen Fehler gefunden? Mach mit! Wir helfen gerne, falls 
 
 [Hier gibts eine Beschreibung](./MITMACHEN.md)
 
-Hile findest du im [einfachIOTA Dirscord](https://discord.gg/Sa8sHbn) im #devtalk Channel.
+Hile findest du im [einfachIOTA Discord](https://discord.gg/Sa8sHbn) im #devtalk Channel.
 
 ----
 

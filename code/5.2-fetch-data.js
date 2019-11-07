@@ -20,12 +20,12 @@ iota
       .map(tx => tx.signatureMessageFragment)
       .join('')
 
-    console.log('Encoded message:')
+    console.log('Nachricht in Tryte:')
     console.log(msg)
 
     //Convert trytes to plan text
-    const data = Converter.trytesToAscii(msg)
-    console.log('Decoded message:')
+    const data = Converter.trytesToAscii(msg + 9)
+    console.log('Nachricht in Ascii:')
     console.log(data)
   })
   .catch(err => {
